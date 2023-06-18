@@ -1,13 +1,3 @@
-/**
- * ghost-dynamic-dropdown 1.1.0 (https://github.com/themeix/ghost-dynamic-dropdown)
- * A simple script for dynamic dorpdown & mega menu for Ghost Blogging Platform.
- * Copyright 2022 Themeix (https://themeix.com)
- * Released under MIT License
- * Released on:  Jul 25, 2021
- */
-
-
-
 (function ($) {
     "use strict";
 
@@ -289,3 +279,4 @@
 
 
 }(jQuery));
+
